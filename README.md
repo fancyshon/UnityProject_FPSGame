@@ -30,4 +30,4 @@ Right mouse button => Use the scope
 
 ## Game scene
 
- ![image](https://raw.githubusercontent.com/fancyshon/UnityProject_FPSGame/main/RdImg/Scene.png)
+ ![image](https://raw.githubusercontent.com/fancyshon/UnityProject_FPSGame/main/RdImg/Scene.png?token=ASCYJZZQIIPLVPRRLMZ2AD3AIEL52)

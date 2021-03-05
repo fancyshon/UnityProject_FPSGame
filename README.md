@@ -2,7 +2,7 @@
 
 ## Theme
 
-- It's a FPS game made by Unity.
+- This is a FPS game made by Unity3D.
 
 - You're stuck in a city full of zombies, you need to find a way to the escape area. On the way to the area, there're lots of zombies. Try to **SURVIVE**.
 
